@@ -1,8 +1,8 @@
 
-this is readme
+# House Price Forecast
 
-ข้อมูลทั้งหมดเป็นข้อมูลสมมุติ ของราคาบ้านที่ขายโดยบริษัทแห่งนึง วัตถุประสงค์ของงานคือ การทำนายราคาบ้านและประเมินค่าผิดพลาด มีข้อมูลทั้งหมด xxxx รายการ data field มี พื้นที่บ้าน จำนวนชั้น สภาพ ระดับ ปีที่สร้าง ปีที่ปรับปรุง ขั้นตอนเริ่มจากสังเกตความสัมพันะ์ผ่าน heat map และทำการ feature selection เฉพาะบาง filed จากนั้นจึงใช้ lenear regression algo ทำนายราคาบ้าน
+All of it is a company's mock-up house price data. The purpose of this study is to anticipate housing prices and evaluate errors. Statistic is made up of 1000 units. House area, floor number, current state, grade, construction year, and renovated year are information fields. The process begins with a heat-map comparison relationship. Then, use feature selection to eliminate some variables. After that, normalize all of the info. Eventually, The linear regression algorithm is the method that I use to forecast property prices.
 
 ![image](pictures/question.JPG)
 
-link ไปหน้า code
+👉 [jupyter notebook]() link to the ```coding```
