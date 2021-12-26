@@ -5,4 +5,4 @@ All of it is a company's mock-up house price data. The purpose of this study is 
 
 ![image](pictures/question.JPG)
 
-👉 [jupyter notebook]() link to the ```coding```
+👉 [jupyter notebook](https://github.com/tan-koo/House-Price-Forecast/blob/master/jupyter/house.ipynb) link to the ```coding```
